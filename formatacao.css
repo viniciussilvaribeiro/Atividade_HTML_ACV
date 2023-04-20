@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gugi&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway+Dots&display=swap');
+
+body {
+  	font-family: 'Share Tech Mono', monospace;
+    background-color: #010326;
+	max-width: 50rem;
+	margin: auto;
+	padding: 20px;
+	color: #F2935C;
+}
+  
+h1 {
+	background-image: #0D0259;
+	font-family: 'Gugi', cursive;
+	text-align: center;
+	margin-top: 30px;
+	color: #BF6550;
+	border-color: #BF6550;
+	border-style: groove;
+	background-image: url('https://images.pexels.com/photos/247676/pexels-photo-247676.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+	background-position: center center;
+	background-attachment: fixed;
+}
+
+h2 {
+	color: #BF6550;
+	font-family: 'Gugi', cursive;
+	margin-top: 40px;
+	margin-bottom: 20px;
+	border-color: #BF6550;
+	border-style: groove;
+	background-image: url('https://images.pexels.com/photos/247676/pexels-photo-247676.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+	background-position: center center;
+	background-attachment: fixed;
+}
+
+img {
+	display: block;
+	margin: auto;
+	max-width: 100%;
+	width: 100%;
+	height: auto;
+	border-radius: 1rem;
+	border-color: #0D0259;
+}
+
+#segundo_fundo {
+	font-family: 'Share Tech Mono', monospace;
+	background-color: #0D0259;
+	max-width: 50rem;
+	margin: auto;
+	padding: 20px;
+	color: #F2935C;
+}
+
+p {
+	color: #F2935C;
+	font-size: 18px;
+	line-height: 1.5;
+	margin-top: 20px;
+	background-image: url('https://images.pexels.com/photos/247676/pexels-photo-247676.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+	background-position: center center;
+	background-attachment: fixed;
+	border-color: #BF6550;
+	border-style: groove;
+}
+
+ul {
+	color: #F2935C;
+	list-style-type: none;
+	padding: 0;
+	margin-top: 20px;
+}
+
+li {
+	color: #F2935C;
+	margin-top: 20px;
+	font-size: 20px;
+}
+
+.comentario {
+	color: #BF6550;
+	font-family: 'Raleway Dots', cursive;
+}
+
+a {
+	color: #BF6550;
+}
+
+#fundo_legal {
+	background-image: url('imagens/fundo_TEC.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+li.windows {
+	background: url('https://i2.wp.com/datacontrolma.com.br/unidadeanil/wp-content/uploads/2016/11/windows-logo-1030x579.png?resize=300%2C169') no-repeat left center;
+	height: 20px;
+	background-size: 20px;
+	padding-left: 20px;
+	padding-top: 3px;
+}
+
+li.lg {
+	background: url('https://static.vecteezy.com/system/resources/previews/019/017/463/non_2x/lg-transparent-logo-free-png.png') no-repeat left center;
+	height: 20px;
+	background-size: 20px;
+	padding-left: 20px;
+	padding-top: 3px;
+}
+
+li.xiaomi {
+	background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Xiaomi_logo.svg/480px-Xiaomi_logo.svg.png') no-repeat left center;
+	height: 20px;
+	background-size: 20px;
+	padding-left: 20px;
+	padding-top: 3px;
+}
+
+li.motorola {
+	background: url('https://w7.pngwing.com/pngs/224/312/png-transparent-moto-g5-moto-e4-motorola-mobility-logo-black-cancer-sign-angle-triangle-logo.png') no-repeat left center;
+	height: 20px;
+	background-size: 20px;
+	padding-left: 20px;
+	padding-top: 3px;
+}
